@@ -20,12 +20,12 @@ npm start
 ```
 #### Few screenshots of the project
 
-![Alt image](https://github.com/Sick-Carlito/react-portfolio/blob/readme/app/assets/images/image1.png)
+![Alt image](https://github.com/Sick-Carlito/Portfolio/blob/master/src/images/image1.png)
 
-![Alt image](https://github.com/Sick-Carlito/react-portfolio/blob/readme/app/assets/images/image2.png)
+![Alt image](https://github.com/Sick-Carlito/Portfolio/blob/master/src/images/image2.png)
 
 
-![Alt image](https://github.com/Sick-Carlito/react-portfolio/blob/readme/app/assets/images/image3.png)
+![Alt image](https://github.com/Sick-Carlito/Portfolio/blob/master/src/images/image3.png)
 
 
 ### Potential future features
