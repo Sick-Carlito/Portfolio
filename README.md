@@ -28,6 +28,11 @@ npm start
 ![Alt image](https://github.com/Sick-Carlito/Portfolio/blob/master/src/images/image3.png)
 
 
+## Live version
+
+- [Link](https://morning-inlet-14998.herokuapp.com/)
+
+
 ### Potential future features
 
 * Add real completed projects
@@ -40,6 +45,11 @@ npm start
 
 #### Email
 carlb1319@gmail.com
+
+- [LinkedIn](https://www.linkedin.com/in/carlb420/)
+
+- [Twitter](https://twitter.com/cbond_420)
+
 
 ## 🤝 Contributing
 
