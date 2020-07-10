@@ -10,10 +10,15 @@
   background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   text-align: center;
   position: fixed;
-  top: 0;
+  top: 50;
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+img {
+  border-radius: 55px;
+
 }
 
 .projects-grid {
@@ -25,6 +30,16 @@
   background: #27221F;
   color: white;
   padding: 2em;
+}
+
+.list {
+  padding-left: 270px;
+
+  
+}
+
+.list-item {
+  color: white;
 }
 
 /* contact page css */
@@ -73,7 +88,7 @@
 
 .avatar-img {
   height: 250px;
-  padding-top: 5em;
+  
 }
 
 .banner-text {
@@ -113,4 +128,13 @@
   color: white;
   font-size: 5em;
   padding: 8px;
+}
+
+
+
+@media screen and (max-width: 500px){
+  .projects-grid {
+    /*display: flex;*/
+    flex-direction: column;                                                                                                                                                                                                                                                                                                                            
+  }
 }
